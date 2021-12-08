@@ -1,0 +1,8 @@
+Imprimacion de la factura del cliente. 
+-------------------------------------------------------------------------------
+Fecha de creacion de archivo con datos:Sun Nov 28 18:32:05 2021
+Nombre del cliente:adfsgagsdf
+Direccion del cliente:abadsfba 223
+Numero de telefono del cliente:45322
+Candidad de llamadas:3255 
+Suma total a pagar:721.0EUR

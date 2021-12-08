@@ -1,0 +1,5 @@
+Nombre + Nota de alumnoDavid 5
+Nombre + Nota de alumnoIrene 9
+Nombre + Nota de alumnoMaria 6.5
+Nombre + Nota de alumnoAntonio 4.2
+Nombre + Nota de alumnoMarta 3.7

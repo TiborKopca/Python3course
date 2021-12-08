@@ -1,0 +1,5 @@
+David: 5
+Irene: 9
+Maria: 6.5
+Antonio: 4.2
+Marta: 3.7

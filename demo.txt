@@ -1,0 +1,4 @@
+Hola mundo
+Estamos escribiendo en un archivo de texto.
+Esta es la tercera linea
+Esta es la ultima linea.
